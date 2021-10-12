@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 ### What am i working on? 🙌
-I’m currently working on building a couple of projects, one is an open source CLI tool written with Go called [Go Scan](https://github.com/samverrall/goscan). Go Scan scrapes websites and run's SEO checks directly from your command line - it also has a bunch of other nice features! Feel free to check the repo for more information. The other is a full-stack time management PWA / web app written with Svelte, TypeScript and a TypeORM backend. These are personal projects i try to build and maintain in my own time. Unfortunatly the time management application is currently closed source.
+I’m currently working on building a couple of projects, one is an open source CLI tool written with Go called [Go Scan](https://github.com/samverrall/goscan). Go Scan scrapes websites and run's SEO checks directly from your command line - it also has a bunch of other nice features! Feel free to check the repo for more information. The other is a full-stack time management PWA / web app written with Svelte, TypeScript and a TypeORM backend. These are personal projects I try to build and maintain in my own time. Unfortunatly the time management application is currently closed source.
 
 ### What do i do? 💻
-I currently work has a full-stack developer writting Go, Node and Svelte for a agency aiming to go SaSS! Check-out our CMS Jolojo [here](https://jolojo.com/).
+I currently work as a full-stack developer writting Go, Node and Svelte for a agency aiming to go SaSS! Check-out our CMS Jolojo [here](https://jolojo.com/).
 
 
 <!--
